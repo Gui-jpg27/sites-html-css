@@ -1,0 +1,17 @@
+body{
+    background-color:black;
+}
+h1{
+    color:rgb(155, 0, 245);
+    font-family:verdana;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    
+    
+}
+p{
+    color: antiquewhite;
+    font-family: verdana;
+}
+
